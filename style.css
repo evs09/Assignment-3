@@ -1,0 +1,13 @@
+td {
+	padding: 20px;
+}
+
+h3{
+	color:white;
+	background-color:red;
+	padding:20px;
+}
+
+label, input {
+	margin:15px;
+}
